@@ -9,6 +9,11 @@ Futuramente possuirá:
 .Possível Site representando o E-commerce
 .Integração plena do sistema (Site/Banco de dados/Aplicação Desktop)
 
+Integrantes:
+Davi de Freitas Alves l 210097
+Lucas Jeronymo Ribeiro  | 210117
+Luís Henrique | 210337
+Thalita | 210150
 
 
 
